@@ -1,0 +1,2 @@
+# Multiple-Classifier-Algorithm
+Understand hypothesis testing and its application to derive useful information about the performance of classifier algorithms. Apply different statistical tests that will evaluate the performance of, 1) two classifier algorithms on a single data set, 2) more than two classifier algorithms on a single data set and 3) comparison of two algorithms over multiple data sets. 
